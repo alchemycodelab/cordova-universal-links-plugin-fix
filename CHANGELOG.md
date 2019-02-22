@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.3 (2016-10-23)
+
+**Bug fixes:**
+
+- Fixed manifestWriter.js
+
+**Enhancements:**
+
+- [Issue #93](https://github.com/nordnet/cordova-universal-links-plugin/issues/93). Fixed iOS build warnings.
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
