@@ -1,6 +1,9 @@
 # THIS IS A FORK...
-...of an unmaintained cordova plugin with unmerged pull request
+
+of a [fork](https://github.com/getfoodly/cordova-universal-links-plugin-fix) of an unmaintained cordova plugin with unmerged pull request
 https://github.com/nordnet/cordova-universal-links-plugin/pull/122
+
+I forked this to fix the outdated path in `hooks/lib/android/manifestWriter.js`.  
 
 # Cordova Universal Links Plugin
 This Cordova plugin adds support for opening an application from the browser when user clicks on the link. Better known as:
