@@ -56,13 +56,8 @@ It is important not only to redirect users to your app from the web, but also pr
 This requires cordova 5.0+ (current stable 1.2.1)
 
 ```sh
-cordova plugin add cordova-universal-links-plugin
-```
+cordova plugin add git+https://github.com/alchemycodelab/cordova-universal-links-plugin-fix.git
 
-It is also possible to install via repo url directly (**unstable**)
-
-```sh
-cordova plugin add https://github.com/nordnet/cordova-universal-links-plugin.git
 ```
 
 ### Migrating from previous versions
